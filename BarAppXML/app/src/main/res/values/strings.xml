@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kotlin2</string>
+    <string name="add_element">Add element</string>
+    <string name="default_text">default</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="add_drink">Add Drink</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="flavor_profile">Flavor Profile</string>
+    <string name="instructions">Instructions</string>
+
+    <string-array name="spinner_drinks">
+        <item>COCKTAIL</item>
+        <item>MOCKTAIL</item>
+        <item>BEER</item>
+        <item>WINE</item>
+        <item>SPIRIT</item>
+    </string-array>
+</resources>
