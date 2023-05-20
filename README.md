@@ -9,6 +9,7 @@ Macrobenchmark and Android Profiler were the frameworks used for the benchmarkin
 differs between the two approaches. 
 
 ##Results
+
 ![nokia_startup](https://github.com/nooriiis/MixologyExplorer/assets/81230151/b1ff2e0a-7bdd-4b37-8760-67e2a4ce805d)
 ![samsung_startup](https://github.com/nooriiis/MixologyExplorer/assets/81230151/230286aa-1837-4935-a399-f8543b4b14c6)
 ![nokia_scrolling](https://github.com/nooriiis/MixologyExplorer/assets/81230151/21c51490-86c9-4fad-800c-ce0e9ec3e1ca)
