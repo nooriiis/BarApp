@@ -8,7 +8,7 @@ in order to measure the UI performance of certain use cases, such as scrolling a
 Macrobenchmark and Android Profiler were the frameworks used for the benchmarking and profiling, in order to collect and analyze data and observe how the UI performance
 differs between the two approaches. 
 
-##Results
+## Results
 
 ![nokia_startup](https://github.com/nooriiis/MixologyExplorer/assets/81230151/b1ff2e0a-7bdd-4b37-8760-67e2a4ce805d)
 ![samsung_startup](https://github.com/nooriiis/MixologyExplorer/assets/81230151/230286aa-1837-4935-a399-f8543b4b14c6)
