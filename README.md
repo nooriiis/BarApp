@@ -9,13 +9,12 @@ Macrobenchmark and Android Profiler were the frameworks used for the benchmarkin
 differs between the two approaches. 
 
 ##Results
-
-![nokia_favorite](https://github.com/nooriiis/MixologyExplorer/assets/81230151/25420dd8-47e3-4932-9295-a91616b17ccf)
-![nokia_navigation](https://github.com/nooriiis/MixologyExplorer/assets/81230151/6c95b06c-8a35-4d98-bd84-67e7ba67b818)
-![nokia_scrolling](https://github.com/nooriiis/MixologyExplorer/assets/81230151/21c51490-86c9-4fad-800c-ce0e9ec3e1ca)
 ![nokia_startup](https://github.com/nooriiis/MixologyExplorer/assets/81230151/b1ff2e0a-7bdd-4b37-8760-67e2a4ce805d)
-![samsung_favorite](https://github.com/nooriiis/MixologyExplorer/assets/81230151/59f31dd5-7a04-4628-8b8a-357922ae871a)
-![samsung_navigation](https://github.com/nooriiis/MixologyExplorer/assets/81230151/e911b474-369f-43cf-b4a3-d5bf1f9fd2a2)
-![samsung_scrolling](https://github.com/nooriiis/MixologyExplorer/assets/81230151/0a389f6b-740f-49ad-a1ac-43903c939f23)
 ![samsung_startup](https://github.com/nooriiis/MixologyExplorer/assets/81230151/230286aa-1837-4935-a399-f8543b4b14c6)
+![nokia_scrolling](https://github.com/nooriiis/MixologyExplorer/assets/81230151/21c51490-86c9-4fad-800c-ce0e9ec3e1ca)
+![samsung_scrolling](https://github.com/nooriiis/MixologyExplorer/assets/81230151/0a389f6b-740f-49ad-a1ac-43903c939f23)
+![nokia_favorite](https://github.com/nooriiis/MixologyExplorer/assets/81230151/25420dd8-47e3-4932-9295-a91616b17ccf)
+![samsung_favorite](https://github.com/nooriiis/MixologyExplorer/assets/81230151/59f31dd5-7a04-4628-8b8a-357922ae871a)
+![nokia_navigation](https://github.com/nooriiis/MixologyExplorer/assets/81230151/6c95b06c-8a35-4d98-bd84-67e7ba67b818)
+![samsung_navigation](https://github.com/nooriiis/MixologyExplorer/assets/81230151/e911b474-369f-43cf-b4a3-d5bf1f9fd2a2)
 
