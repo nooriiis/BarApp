@@ -8,5 +8,5 @@ in order to measure the UI performance of certain use cases, such as scrolling a
 Macrobenchmark and Android Profiler were the frameworks used for the benchmarking and profiling, in order to collect and analyze data and observe how the UI performance
 differs between the two approaches. 
 
-![Alt Text](Pictures\nokia_favorite)
+![Alt Text](C:\Users\zaed_\Desktop\Results\nokia_favorite)
 
